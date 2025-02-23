@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ted-parkhyunwoo
 - 👀 I’m interested in { pentest, web_development, simple_coding };
-- 🌱 I’m currently learning [{ python: { flask, sqlite }},
-                              { cpp: { unreal_engine, STL }},
-                            ]
+- 🌱 I’m currently learning ['python', 'c']
 - 💞️ I’m looking to collaborate on {'\0'};
 - 📫 How to reach me { email: { tedpark4696@gmail.com }}
 - 😄 Pronouns: { 'H', 'e' };
